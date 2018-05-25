@@ -1,0 +1,8 @@
+{
+  "name": "botbase",
+  "version": "0.0.1",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "redis": "^2.8.0"
+  }
+}

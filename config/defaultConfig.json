@@ -1,0 +1,7 @@
+{
+  "token": "",
+  "redis": {
+    "database": "0",
+    "prefix": "botbase"
+  }
+}
